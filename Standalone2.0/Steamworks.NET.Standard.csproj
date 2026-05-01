@@ -12,9 +12,9 @@
 
 	<PropertyGroup Label="Nuget PM">
 		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-		<PackageId>Steamworks.NET</PackageId>
+		<PackageId>Steamworks.NET.MonoGame</PackageId>
 		<Authors>rlabrecque</Authors>
-		<!--<PackageVersion>15.0.1</PackageVersion>-->
+		<PackageVersion>2026.1.0</PackageVersion>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageProjectUrl>https://github.com/rlabrecque/Steamworks.NET</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/rlabrecque/Steamworks.NET.git</RepositoryUrl>
